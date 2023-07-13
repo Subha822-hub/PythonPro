@@ -44,7 +44,6 @@ scissors='''
 values=[rock,paper,scissors]
 computer_choose=random.randint(0,2)
 user_input=int(user_input)
-print(computer_choose)
 if(user_input==computer_choose):
     print(values[user_input])
     print("\nComputer Chose\n")
@@ -62,4 +61,33 @@ else:
     print("You Win")
 
 
+# Output
 
+# What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+# 2
+#
+#
+#    ____
+#   / __  ( (__) |___ ___
+#   \________,'   """""----....____
+#    _______<  () dd       ____----'
+#   / __   __`.___-----""""
+#  ( (__) |
+#   \____/
+#
+#
+#
+#
+# Computer Chose
+#
+#
+#
+#  _ __   __ _ _ __   ___ _ __
+# | '_ \ / _` | '_ \ / _ \ '__|
+# | |_) | (_| | |_) |  __/ |
+# | .__/ \__,_| .__/ \___|_|
+# | |         | |
+# |_|         |_|
+#
+#
+# You Win

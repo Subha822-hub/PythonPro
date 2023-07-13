@@ -33,6 +33,15 @@ elif(true_love>40 and true_love<50):
 else:
     print(f"Your score is {true_love}.")
 
+# Output
+
+# Welcome to the Love Calculator!
+# What is your name?
+# Subha
+# What is their name?
+# Jaisen
+# Your score is 21.
+
 
 
 
