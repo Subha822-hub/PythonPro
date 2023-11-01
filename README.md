@@ -12,5 +12,5 @@
 | 07    | Password Generator(Easy)  | [Live Demo](https://github.com/Subha822-hub/PythonPro/blob/main/Section_05/Day_01(Easy).py) |
 | 08    | Password Generator(Hard)   | [Live Demo](https://github.com/Subha822-hub/PythonPro/blob/main/Section_05/Day_01(Hard).py) |
 | 09    | High Score   | [Live Demo](https://github.com/Subha822-hub/PythonPro/blob/main/Section_05/Highest_Score.py) |
-
+| 37    | Habit Tracker   | [Live Demo](https://github.com/Subha822-hub/PythonPro/blob/main/Section_37/Day_37.py) |
 
